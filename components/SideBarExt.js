@@ -11,6 +11,7 @@ export default ({pathname}) => (
       <NavItem href="/external/sales"><Glyphicon bsStyle="larger" glyph="usd"/>Sales</NavItem>
       <NavItem href="/external/customers"><Glyphicon bsStyle="larger" glyph="user"/>Customers</NavItem>
       <NavItem href="/external/trends"><Glyphicon bsStyle="larger" glyph="th-large" />Trends</NavItem>
+      <NavItem href="/external/analyze"><Glyphicon bsStyle="larger" glyph="signal" />Analyze</NavItem>
     </Nav>
   </div>
 )

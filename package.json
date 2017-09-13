@@ -23,7 +23,7 @@
       "cookieDomainRewrite": "localhost",
       "target": "https://whitelabeling.gooddata.com/"
     },
-    "/account.html": {
+    "/*.html": {
       "target": "https://whitelabeling.gooddata.com/"
     }
   },
